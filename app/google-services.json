@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820790830320",
+    "firebase_url": "https://freezeit-72ed1.firebaseio.com",
+    "project_id": "freezeit-72ed1",
+    "storage_bucket": "freezeit-72ed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820790830320:android:81bbc103eff0ec0e",
+        "android_client_info": {
+          "package_name": "com.mads.jensen.freezeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820790830320-j5hmlmlqq5cgj0qh7b043h8k98ere9fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mads.jensen.freezeit",
+            "certificate_hash": "7d7ebb89a4738b5b3b8f86bf16a08031fdeaea8e"
+          }
+        },
+        {
+          "client_id": "820790830320-tp3q28u1v8cfshuo9u2ppn9oc5odtmnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjXe8YK_yf4qARLJwyxDTygPXa6kO-_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820790830320-tp3q28u1v8cfshuo9u2ppn9oc5odtmnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
